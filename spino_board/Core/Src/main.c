@@ -167,7 +167,15 @@ int main(void)
 		  	  HAL_UART_Transmit(&hlpuart1, (uint8_t*)buffer, strlen(buffer), HAL_MAX_DELAY);
 
 		  	  // Affichage sur LCD 16x2
+		  	// Création des lignes à afficher sur le LCD
+		  	    char lcdLine1[17];  // 16 caractères max + '\0'
+		  	    char lcdLine2[17];
+		  	    snprintf(lcdLine1, sizeof(lcdLine1), "T:%.1fC P:%.0fhPa", temperature, pressure / 100.0);
+		  	    snprintf(lcdLine2, sizeof(lcdLine2), "L:%.0flux A:%.0fm", lux, altitude);
 
+		  	    // Affichage LCD
+		  	    LCD_SetText(&hi2c1, lcdLine1, 0);  // ligne 1
+		  	    LCD_SetText(&hi2c1, lcdLine2, 1);  // ligne 2
 
 		  	  HAL_Delay(10000);
 
