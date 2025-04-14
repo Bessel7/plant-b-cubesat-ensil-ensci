@@ -1,0 +1,5 @@
+../Core/Src/BMP280.c:19:13:BMP280_ReadCalibrationData	1
+../Core/Src/BMP280.c:38:6:BMP280_Init	1
+../Core/Src/BMP280.c:51:7:BMP280_ReadTemperature	1
+../Core/Src/BMP280.c:66:7:BMP280_ReadPressure	2
+../Core/Src/BMP280.c:89:7:BMP280_ReadAltitude	1
