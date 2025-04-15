@@ -1,0 +1,4 @@
+../Core/Src/core/informationMessage.c:28:6:setupInfoMessage	3
+../Core/Src/core/informationMessage.c:50:15:setInfoMessage	2
+../Core/Src/core/informationMessage.c:85:15:delInfoMessage	3
+../Core/Src/core/informationMessage.c:114:6:sendInfoMessage	6

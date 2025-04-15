@@ -1,0 +1,11 @@
+../Core/Src/mailboxMode/mailbox.c:29:15:initialise	5
+../Core/Src/mailboxMode/mailbox.c:67:15:addMessage	9
+../Core/Src/mailboxMode/mailbox.c:175:22:deletteMessage	5
+../Core/Src/mailboxMode/mailbox.c:220:15:getListMailbox	2
+../Core/Src/mailboxMode/mailbox.c:246:15:deleteMailBox	5
+../Core/Src/mailboxMode/mailbox.c:295:22:getLastMessage	6
+../Core/Src/mailboxMode/mailbox.c:359:22:getMessage	6
+../Core/Src/mailboxMode/mailbox.c:422:15:getAllMesage	7
+../Core/Src/mailboxMode/mailbox.c:504:22:dumpMailbox	3
+../Core/Src/mailboxMode/mailbox.c:518:22:interpretMailBoxcommand	12
+../Core/Src/mailboxMode/mailbox.c:606:6:processMailbox	2

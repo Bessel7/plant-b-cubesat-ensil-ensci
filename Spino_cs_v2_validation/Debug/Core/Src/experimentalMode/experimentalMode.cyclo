@@ -1,0 +1,6 @@
+../Core/Src/experimentalMode/experimentalMode.c:26:6:initExpe	1
+../Core/Src/experimentalMode/experimentalMode.c:47:22:expDownloadTLE	1
+../Core/Src/experimentalMode/experimentalMode.c:74:15:interpretExperimentalCommmand	14
+../Core/Src/experimentalMode/experimentalMode.c:173:6:sendBeaconExpe	2
+../Core/Src/experimentalMode/experimentalMode.c:193:13:processExperimental	2
+../Core/Src/experimentalMode/experimentalMode.c:219:16:experimentalMode	7

@@ -1,0 +1,4 @@
+../Core/Src/ax25/ax25.c:27:6:convertToAX25Header	32	static
+../Core/Src/ax25/ax25.c:56:6:encodeAX25Header	24	static
+../Core/Src/ax25/ax25.c:86:5:convertDataToAx25	40	static
+../Core/Src/ax25/ax25.c:121:10:calculateCRC	40	static

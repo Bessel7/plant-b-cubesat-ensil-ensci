@@ -1,0 +1,5 @@
+../Core/Src/core/command.c:33:22:reset	8	static
+../Core/Src/core/command.c:49:22:setValue	24	static
+../Core/Src/core/command.c:123:22:getValue	56	static
+../Core/Src/core/command.c:216:15:interpretcommand	520	static
+../Core/Src/core/command.c:370:6:processCommand	1384	static

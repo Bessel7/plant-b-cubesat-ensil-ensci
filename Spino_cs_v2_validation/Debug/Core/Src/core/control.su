@@ -1,0 +1,6 @@
+../Core/Src/core/control.c:36:7:setupControl	4	static
+../Core/Src/core/control.c:42:6:inittlm	4	static
+../Core/Src/core/control.c:51:6:sendTLMWithoutDelay	552	static
+../Core/Src/core/control.c:62:13:sendTLM	568	static
+../Core/Src/core/control.c:97:15:changeState	24	static
+../Core/Src/core/control.c:158:6:control	32	static

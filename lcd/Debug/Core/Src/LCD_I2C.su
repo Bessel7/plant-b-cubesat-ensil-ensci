@@ -1,0 +1,5 @@
+../Core/Src/LCD_I2C.c:4:6:LCD_Command	32	static
+../Core/Src/LCD_I2C.c:9:6:LCD_Write	32	static
+../Core/Src/LCD_I2C.c:14:6:LCD_SetRGB	48	static
+../Core/Src/LCD_I2C.c:28:6:LCD_SetText	32	static
+../Core/Src/LCD_I2C.c:40:6:LCD_Init	16	static

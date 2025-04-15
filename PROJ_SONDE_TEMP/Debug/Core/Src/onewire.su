@@ -1,0 +1,6 @@
+../Core/Src/onewire.c:10:6:delay_us	16	static
+../Core/Src/onewire.c:15:9:Onewire_Reset	16	static
+../Core/Src/onewire.c:30:6:Onewire_WriteBit	16	static
+../Core/Src/onewire.c:37:9:Onewire_ReadBit	16	static
+../Core/Src/onewire.c:48:6:Onewire_WriteByte	24	static
+../Core/Src/onewire.c:54:9:Onewire_ReadByte	16	static

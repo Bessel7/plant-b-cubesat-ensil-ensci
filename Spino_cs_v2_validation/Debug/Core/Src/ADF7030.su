@@ -1,0 +1,16 @@
+../Core/Src/ADF7030.c:154:6:SPI_Write	24	static
+../Core/Src/ADF7030.c:162:6:SPI_ReadWrite	32	static
+../Core/Src/ADF7030.c:170:6:adf_check_ready	16	static
+../Core/Src/ADF7030.c:180:10:adf_read_reg	48	static
+../Core/Src/ADF7030.c:207:6:adf_write_reg	32	static
+../Core/Src/ADF7030.c:227:6:adf_conf_pin	24	static
+../Core/Src/ADF7030.c:242:6:adf_test_cw_mode	16	static
+../Core/Src/ADF7030.c:268:6:adf_test_cw_off	16	static
+../Core/Src/ADF7030.c:287:9:adf_send_confblob	40	static
+../Core/Src/ADF7030.c:340:6:config_ADF7030	24	static
+../Core/Src/ADF7030.c:387:9:adf_get_status	24	static
+../Core/Src/ADF7030.c:438:6:adf_read_state	32	static
+../Core/Src/ADF7030.c:447:9:adf_read_temp	32	static
+../Core/Src/ADF7030.c:504:6:init_uhf_txbuffer_ramp	16	static
+../Core/Src/ADF7030.c:511:6:init_uhf_txbuffer	16	static
+../Core/Src/ADF7030.c:524:9:adf_tx_data	32	static

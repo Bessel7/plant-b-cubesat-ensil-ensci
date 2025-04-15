@@ -1,0 +1,9 @@
+../Core/Src/drivers/modem.c:39:5:setModemMode	2
+../Core/Src/drivers/modem.c:50:6:ModemOpen	1
+../Core/Src/drivers/modem.c:56:5:readData	2
+../Core/Src/drivers/modem.c:68:5:readDataDebug	3
+../Core/Src/drivers/modem.c:100:5:readDataRX2	2
+../Core/Src/drivers/modem.c:116:5:readDataRX	5
+../Core/Src/drivers/modem.c:174:5:writeData	2
+../Core/Src/drivers/modem.c:185:5:writeDataDebug	2
+../Core/Src/drivers/modem.c:236:5:writeDataTX	2

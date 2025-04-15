@@ -1,0 +1,4 @@
+#ifndef MODEMAILBOX
+#define MODEMAILBOX
+
+#endif // MODEMAILBOX

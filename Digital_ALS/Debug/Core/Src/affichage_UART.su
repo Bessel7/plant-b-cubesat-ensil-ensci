@@ -1,0 +1,2 @@
+../Core/Src/affichage_UART.c:5:6:UART_Afficher_Lux	80	static
+../Core/Src/affichage_UART.c:11:6:UART_Afficher_Mesures	184	static

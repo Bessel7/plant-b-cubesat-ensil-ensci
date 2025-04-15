@@ -1,0 +1,3 @@
+../Core/Src/SpinoDriver/spUART..c:16:5:readUART	32	static
+../Core/Src/SpinoDriver/spUART..c:74:8:writeUART	16	static
+../Core/Src/SpinoDriver/spUART..c:88:6:MX_USART1_UART_Init	8	static

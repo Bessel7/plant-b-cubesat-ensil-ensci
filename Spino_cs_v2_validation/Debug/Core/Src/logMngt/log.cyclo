@@ -1,0 +1,3 @@
+../Core/Src/logMngt/log.c:33:6:logger	2
+../Core/Src/logMngt/log.c:58:15:getLastLog	1
+../Core/Src/logMngt/log.c:79:15:getAllLogs	2

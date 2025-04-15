@@ -1,0 +1,5 @@
+../Core/Src/payloadMode/payloadMode.c:35:6:initPayload	4	static
+../Core/Src/payloadMode/payloadMode.c:42:15:getAllI2Cdata	568	static
+../Core/Src/payloadMode/payloadMode.c:72:15:interpretcommandPayload	576	static
+../Core/Src/payloadMode/payloadMode.c:122:6:processCommandePayload	1384	static
+../Core/Src/payloadMode/payloadMode.c:154:16:payloadMode	552	static

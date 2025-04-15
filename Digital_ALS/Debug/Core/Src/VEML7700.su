@@ -1,0 +1,4 @@
+../Core/Src/VEML7700.c:3:13:VEML7700_WriteRegister	32	static
+../Core/Src/VEML7700.c:8:17:VEML7700_ReadRegister	40	static
+../Core/Src/VEML7700.c:14:6:VEML7700_Init	16	static
+../Core/Src/VEML7700.c:19:7:VEML7700_GetLux	24	static

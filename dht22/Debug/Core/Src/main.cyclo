@@ -1,0 +1,10 @@
+../Core/Src/main.c:84:6:DHT22_Start	2
+../Core/Src/main.c:100:9:DHT22_Check_Response	6
+../Core/Src/main.c:119:9:DHT22_Read_Byte	6
+../Core/Src/main.c:134:9:DHT22_Read	3
+../Core/Src/main.c:150:6:Read_DHT22_UART	3
+../Core/Src/main.c:174:5:main	1
+../Core/Src/main.c:230:6:SystemClock_Config	3
+../Core/Src/main.c:274:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:307:13:MX_GPIO_Init	1
+../Core/Src/main.c:353:6:Error_Handler	1
